@@ -2,5 +2,6 @@
 
 To execute the project, simply run the following commands inside the project directory:
 
-npm install
-node app.js
+"npm install"
+
+"node app.js"
